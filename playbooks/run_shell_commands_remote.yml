@@ -2,7 +2,7 @@
 
 ---
 #- hosts: localhost
-- hosts: 18.218.140.76
+- hosts: 18.218.xx.xx
   become: true
   tasks:
     - name: Make folder

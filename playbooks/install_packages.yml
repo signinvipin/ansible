@@ -1,7 +1,7 @@
 # Install packages from available repositories 
 ---
 - hosts: localhost
-  becomes: yes
+  become: yes
   tasks:
     - name: install java 17
       ansible.builtin.yum:
