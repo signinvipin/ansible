@@ -6,7 +6,7 @@ Ansible playbooks and roles: installing packages, running shell commands locally
 | Path | What it covers |
 |---|---|
 | [playbooks](./playbooks) | `install_packages.yml`, `run_shell_commands.yml` (localhost), `run_shell_commands_remote.yml` (remote host) |
-| [inventory](./inventory) | Example inventory in INI (`hosts.ini`) and YAML (`hosts.yaml`) formats |
+| [inventory](./inventory) | Inventory in INI (`hosts.ini`) and YAML (`hosts.yaml`) formats |
 | [elk_stack](./elk_stack) | Roles to deploy Java, Elasticsearch, Kibana, nginx and Logstash on CentOS |
 | [testfolder](./testfolder) | Sample output of the shell-command playbooks (see its `README.txt`) |
 
