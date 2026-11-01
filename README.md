@@ -1,6 +1,6 @@
 # ansible
 
-Ansible playbooks and roles from hands-on practice: installing packages, running shell commands locally and on a remote host, and deploying an ELK stack. This is a lab/learning project.
+Ansible playbooks and roles: installing packages, running shell commands locally and on a remote host, and deploying an ELK stack. This is a lab project.
 
 ## Contents
 | Path | What it covers |
